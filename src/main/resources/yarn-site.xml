@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+	<property>
+		<description>The hostname of the RM.</description>
+		<name>yarn.resourcemanager.hostname</name>
+		<value>hadoop102</value>
+<!-- 		<value>0.0.0.0</value> -->
+	</property>
+</configuration>
