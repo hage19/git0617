@@ -2,4 +2,4 @@
 
 readme.md
 
-你好
+read 1
