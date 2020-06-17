@@ -12,14 +12,8 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 public class WordCountDriver {
 	
 
-	//nihao master 1
-
-	//nihao 2
 	
 	//nihao dev1
-	//nihao dev2
-	
-	//nihao master 1
 	
 	// 在windows下无法直接提交job到YARN，可以在Linux下开启一个eclipse提交！
 	// 使用hadoop jar jar包   主类名
