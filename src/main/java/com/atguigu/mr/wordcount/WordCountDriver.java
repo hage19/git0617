@@ -11,7 +11,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 public class WordCountDriver {
 	
-	//nihao 1
+	//nihao dev
 	//nihao 2
 	
 	//nihao dev1
